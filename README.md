@@ -58,6 +58,12 @@ I have a strong passion for creating clean, maintainable, and scalable code whil
 
 ---
 
+### 🎉 LinkedIn Recommendation
+> "I had the opportunity to work closely with Joel for four years, during which he demonstrated genuine dedication and a willingness to learn. He consistently embraced new tasks—no matter the complexity—and showed impressive adaptability when it came to exploring different technologies. What stood out most was his openness to feedback, even when it wasn’t easy to hear. Joel took it all in stride, using it as a springboard to grow both personally and professionally." 
+> – *[Joaquin Vigna, CTO @ BrokenRubik](https://www.linkedin.com/in/joelpina/)*
+
+---
+
 ### 📧 How to Reach Me
 - LinkedIn: [https://www.linkedin.com/in/joelpina/](https://www.linkedin.com/in/joelpina/)
 - Email: [joelpina93@gmail.com](mailto:joelpina93@gmail.com)
