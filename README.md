@@ -53,7 +53,7 @@ I have a strong passion for creating clean, maintainable, and scalable code whil
 
 ### 🌱 Current Focus
 - Enhancing my skills in **mobile development** using **Kotlin**, **Swift**, and **modern frameworks**.
-- Improving my expertise in **Ruby** and **Ruby on Rails** for building real-world projects.
+- Learning **Ruby** and **Ruby on Rails** to build real-world projects.
 - Exploring advanced cloud solutions and modern software architecture.
 
 ---
