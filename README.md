@@ -40,6 +40,8 @@ I have a strong passion for creating clean, maintainable, and scalable code whil
 - **Leadership Oriented**: I enjoy leading teams to success and fostering collaboration.
 - **Quick Learner**: I embrace continuous learning to stay up-to-date with modern technologies.
 
+*"Talent wins games, but teamwork and intelligence win championships."* – **Michael Jordan**
+
 ---
 
 ### 📚 Professional Values
