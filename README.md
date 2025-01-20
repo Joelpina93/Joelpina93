@@ -11,13 +11,13 @@ I have a strong passion for creating clean, maintainable, and scalable code whil
 ### 🛠 Technologies & Tools
 
 **Languages**:  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks & Libraries**:  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![SuiteCommerce](https://img.shields.io/badge/SuiteCommerce-2D4F6D?style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat) ![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=flat) ![SuiteCommerce](https://img.shields.io/badge/SuiteCommerce-2D4F6D?style=flat)
 
 **Platforms**:  
-![NetSuite](https://img.shields.io/badge/NetSuite-0089D6?style=flat&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![NetSuite](https://img.shields.io/badge/NetSuite-0089D6?style=flat&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white)
 
 **Tools**:  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
@@ -25,6 +25,7 @@ I have a strong passion for creating clean, maintainable, and scalable code whil
 ---
 
 ### 📊 Professional Experience
+- **Tech Lead**: Currently leading technical projects at [**Promtior.ai**](https://www.promtior.ai/), focusing on AI-driven solutions.
 - **Team Leadership**: Experience leading teams to deliver high-quality software solutions on time.
 - **Full-Stack Development**: Proficient in both front-end and back-end development.
 - **Cloud Solutions**: Familiar with deploying and managing applications using AWS.
@@ -40,8 +41,6 @@ I have a strong passion for creating clean, maintainable, and scalable code whil
 - **Leadership Oriented**: I enjoy leading teams to success and fostering collaboration.
 - **Quick Learner**: I embrace continuous learning to stay up-to-date with modern technologies.
 
-*"Talent wins games, but teamwork and intelligence win championships."* – **Michael Jordan**
-
 ---
 
 ### 📚 Professional Values
@@ -54,9 +53,9 @@ I have a strong passion for creating clean, maintainable, and scalable code whil
 ---
 
 ### 🌱 Current Focus
-- Enhancing my skills in **mobile development** using **Kotlin**, **Swift**, and **modern frameworks**.
-- Learning **Ruby** and **Ruby on Rails** to build real-world projects.
-- Exploring advanced cloud solutions and modern software architecture.
+- Developing **AI agents** and building **Retrieval-Augmented Generation (RAG)** systems.
+- Exploring and studying the **Azure AI ecosystem** to leverage its tools for innovative solutions.
+- Enhancing my expertise in designing AI-driven applications to solve real-world problems.
 
 ---
 
